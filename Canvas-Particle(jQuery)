@@ -177,5 +177,5 @@ var CanvasParticle = (function(){
 			}
 		}
 	}
-	return canvasInit;
+	return canvasInit
 })();
